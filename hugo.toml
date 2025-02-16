@@ -1,0 +1,12 @@
+baseURL = 'https://endobit.io/'
+languageCode = 'en-us'
+title = 'endobit'
+copyright = "© 2025 endobit; all rights reserved."
+theme = ["github.com/markdumay/hugo-theme-vanity"]
+
+# [deployment]
+# [[deployment.targets]]
+# name = "prod"
+# URL = "s3://endobit.io?region=us-east-1"
+
+
