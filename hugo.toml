@@ -4,6 +4,9 @@ title = 'endobit'
 copyright = "© 2025 endobit; all rights reserved."
 theme = ["github.com/markdumay/hugo-theme-vanity"]
 
+[params]
+  redirect = true
+
 # [deployment]
 # [[deployment.targets]]
 # name = "prod"
