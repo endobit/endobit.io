@@ -1,3 +1,6 @@
+# This site serves a vanity URL for Go packages. It has no ability to serve any
+# other content.
+
 baseURL = 'https://endobit.io/'
 languageCode = 'en-us'
 title = 'endobit'
@@ -6,5 +9,3 @@ theme = ["github.com/markdumay/hugo-theme-vanity"]
 
 [params]
   redirect = true
-
-
